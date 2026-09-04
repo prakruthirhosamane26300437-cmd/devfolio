@@ -27,3 +27,5 @@ This is my personal portfolio website created using HTML and CSS.
 ## Author
 
 Prakruthi
+Updated my portfolio website.
+Update portfolio README
